@@ -1,2 +1,2 @@
 # activationsDash
-shiny dashboard app with activations mongoDB
+shiny dashboard app with mongoDB
