@@ -18,10 +18,7 @@ dashboardPage(
       menuItem("Search", icon = icon("search"),
                menuSubItem("查詢用戶開通資料", tabName = "userActivations", icon = icon("table"))
       )
-#       menuItem("Codes",  icon = icon("file-text-o"),
-#                menuSubItem("ui.R", tabName = "ui", icon = icon("angle-right")),
-#                menuSubItem("server.R", tabName = "server", icon = icon("angle-right"))
-#       )
+
     ),
     hr(),
     conditionalPanel("input.tabs=='plotline' | input.tabs=='plotbubble'",

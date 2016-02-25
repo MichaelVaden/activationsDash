@@ -7,7 +7,6 @@ library(dygraphs)
 library(bubbles)
 library(mongolite)
 
-#setAWSPath<-"ec2-54-248-156-148.ap-northeast-1.compute.amazonaws.com"
 setAWSPath<-"54.65.105.88"
 
 setMocksKey<-c("HANLINSMMOCK","PREJUNIORMAT","PREJUNIORENG","SUMMERPREMAT","SIMULATETEST","PREEXAMTESTS","13BATTLE3800","EHANLINEXAMS")
